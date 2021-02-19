@@ -31,6 +31,15 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+					<cloudHubDeployemnt>
+						<userName>sajjadali56</userName>
+						<password>sajjad123</password>
+						<enviroment>Sandbox</enviroment>
+						<workers>1</workers>
+						<workerType>micro</workerType>
+						<applicationName>Oauth-sapi</applicationName>
+						<muleVersion>4.3.0</muleVersion>
+					</cloudHubDeployemnt>
 				</configuration>
 			</plugin>
 		</plugins>
