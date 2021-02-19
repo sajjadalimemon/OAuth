@@ -32,9 +32,9 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
-						<userName>sajjadali56</userName>
-						<password>sajjad123</password>
-						<enviroment>Sandbox</enviroment>
+						<username>sajjadali56</username>
+						<password>Sajjad123</password>
+						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>micro</workerType>
 						<applicationName>Oauth-sapi</applicationName>
